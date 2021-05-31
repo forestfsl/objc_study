@@ -1,0 +1,61 @@
+{
+    "name": "ios审核-首页",
+    "modules": [{
+       
+        "moduleTemplateId": 2,
+        "title": null,
+        "contents": [{
+            "eventTrackingName": "关于我们",
+            "contentId": 26,
+            "name": "首页图片入口-关于我们",
+            "customFields": [{
+                "fieldName": "image",
+                "value": ["https:\/\/hll-common.61info.cn\/prod\/app-resource-ui\/60afbf9d6def8d38dce95877.png"]
+            }, {
+                "fieldName": "jumpUrl",
+                "value": ["https:\/\/webapp-ai.61info.cn\/app_static\/web\/introduce"]
+            }, {
+                "fieldName": "requireLogin",
+                "value": ["2"]
+            }],
+            "priority": 3
+        }, {
+            "eventTrackingName": "如何上课",
+            "contentId": 27,
+            "name": "首页图片入口-如何上课2",
+            "customFields": [{
+                "fieldName": "image",
+                "value": ["https:\/\/hll-common.61info.cn\/prod\/app-resource-ui\/60afbfc06def8d38dce95878.png"]
+            }, {
+                "fieldName": "jumpUrl",
+                "value": ["https:\/\/ai-h5.61info.cn\/coursePrep?openWKSchemeURLProtocol=2&courseCategoryId=0"]
+            }, {
+                "fieldName": "requireLogin",
+                "value": ["2"]
+            }],
+            "priority": 2
+        }, {
+            "eventTrackingName": "客服中心",
+            "contentId": 28,
+            "name": "首页图片入口-客服中心2",
+            "customFields": [{
+                "fieldName": "image",
+                "value": ["https:\/\/hll-common.61info.cn\/prod\/app-resource-ui\/60afbfde6def8d38dce95879.png"]
+            }, {
+                "fieldName": "jumpUrl",
+                "value": ["http:\/\/webapp-ai.61info.cn\/app_static\/web\/questions?openWKSchemeURLProtocol=2&needChildLock=1"]
+            }, {
+                "fieldName": "requireLogin",
+                "value": ["2"]
+            }],
+            "priority": 1
+        }],
+        "moduleId": 14,
+        "marginBottom": 30,
+        "customFields": [{
+            "fieldName": "proportion",
+            "value": ["750:166"]
+        }],
+        "name": "首页图片入口2"
+    }]
+}

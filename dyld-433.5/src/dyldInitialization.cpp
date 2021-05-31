@@ -48,7 +48,7 @@ extern void syncProcessInfo();
 
 // currently dyld has no initializers, but if some come back, set this to non-zero
 #define DYLD_INITIALIZER_SUPPORT  0
-
+//https://www.dazhuanlan.com/2019/10/16/5da63708ba8e6/
 #if __LP64__
 	#define LC_SEGMENT_COMMAND		LC_SEGMENT_64
 	#define macho_segment_command	segment_command_64

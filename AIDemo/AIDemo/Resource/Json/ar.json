@@ -1,0 +1,26 @@
+{
+    "name": "ios审核-首页",
+    "modules": [{
+        "moduleTemplateId": 12,
+        "title": null,
+        "contents": [{
+            "eventTrackingName": "AR相机入口",
+            "contentId": 67,
+            "name": "AR相机入口",
+            "customFields": [{
+                "fieldName": "jumpUrl",
+                "value": ["https:\/\/Common\/openARCamera"]
+            }, {
+                "fieldName": "linkedData",
+                "value": [{
+                    "redDotNum": 0
+                }]
+            }],
+            "priority": 1
+        }],
+        "moduleId": 28,
+        "marginBottom": 6,
+        "customFields": [],
+        "name": "AR相机入口"
+    }]
+}

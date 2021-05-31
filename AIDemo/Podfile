@@ -1,0 +1,24 @@
+# Uncomment the next line to define a global platform for your project
+source 'https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git'
+platform :ios, '9.0'
+#use_frameworks!
+
+
+target 'AIDemo' do
+ 
+  
+  # --- 第三方库 ---
+  pod 'AFNetworking', '4.0.1'
+  pod 'SDWebImage', '5.0.6'
+  pod 'Masonry', '1.1.0'
+  pod 'MJExtension' , '3.2.4'
+  pod 'YYCategories'
+  pod 'MJRefresh', '3.4.3'
+  pod "TTTAttributedLabel", '2.0.0'
+  pod 'MBProgressHUD', '1.1.0'
+  pod 'SDCycleScrollView', '1.80'
+  pod 'ZGPageControl', '0.1.0'
+ 
+
+end
+

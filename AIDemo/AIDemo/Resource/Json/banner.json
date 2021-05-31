@@ -1,0 +1,60 @@
+{
+    "name": "ios审核-首页",
+    "modules": [{
+        "moduleTemplateId": 1,
+        "title": null,
+        "contents": [{
+            "eventTrackingName": "首页banner-咕比商城上新",
+            "contentId": 29,
+            "name": "【提审】首页banner",
+            "customFields": [{
+                "fieldName": "image",
+                "value": ["https:\/\/hll-common.61info.cn\/prod\/app-resource-ui\/60a65bfa6def8d7a58af5521.png"]
+            }, {
+                "fieldName": "jumpUrl",
+                "value": ["https:\/\/Common\/openRNView?componentId=courseDetailsv2&courseMealType=1&channelId=5268&appid=wx98ac464c9196bfbe&needChildLock=1"]
+            }, {
+                "fieldName": "requireLogin",
+                "value": ["1"]
+            }],
+            "priority": 7
+        },{
+            "eventTrackingName": "首页banner-咕比商城上新",
+            "contentId": 29,
+            "name": "【提审】首页banner",
+            "customFields": [{
+                "fieldName": "image",
+                "value": ["https:\/\/hll-common.61info.cn\/prod\/app-resource-ui\/60a65bfa6def8d7a58af5521.png"]
+            }, {
+                "fieldName": "jumpUrl",
+                "value": ["https:\/\/Common\/openRNView?componentId=courseDetailsv2&courseMealType=1&channelId=5268&appid=wx98ac464c9196bfbe&needChildLock=1"]
+            }, {
+                "fieldName": "requireLogin",
+                "value": ["1"]
+            }],
+            "priority": 7
+        },{
+            "eventTrackingName": "首页banner-咕比商城上新",
+            "contentId": 29,
+            "name": "【提审】首页banner",
+            "customFields": [{
+                "fieldName": "image",
+                "value": ["https:\/\/hll-common.61info.cn\/prod\/app-resource-ui\/60a65bfa6def8d7a58af5521.png"]
+            }, {
+                "fieldName": "jumpUrl",
+                "value": ["https:\/\/Common\/openRNView?componentId=courseDetailsv2&courseMealType=1&channelId=5268&appid=wx98ac464c9196bfbe&needChildLock=1"]
+            }, {
+                "fieldName": "requireLogin",
+                "value": ["1"]
+            }],
+            "priority": 7
+        }],
+        "moduleId": 11,
+        "marginBottom": 25,
+        "customFields": [{
+            "fieldName": "proportion",
+            "value": ["690:280"]
+        }],
+        "name": "【提审】首页banner"
+    }]
+}

@@ -1,0 +1,74 @@
+{
+    "name": "ios审核-首页",
+    "modules": [{
+        "moduleTemplateId": 3,
+        "title": "体验版",
+        "contents": [{
+            "eventTrackingName": "苹果审核-首页体验课",
+            "contentId": 57,
+            "name": "苹果审核-首页体验课",
+            "customFields": [{
+                "fieldName": "courseName",
+                "value": ["咕比美术启蒙【体验版】"]
+            }, {
+                "fieldName": "courseTag",
+                "value": ["限时特惠10课时", "包邮送配套画具"]
+            }, {
+                "fieldName": "jumpUrl",
+                "value": ["https:\/\/Common\/openRNView?componentId=courseDetailsv2&courseMealType=1&channelId=5268&appid=wx98ac464c9196bfbe&needChildLock=1"]
+            }, {
+                "fieldName": "coursePackage",
+                "value": [{
+                    "courseMealId": "118",
+                    "appleProductId": null,
+                    "referencePriceStr": "指导价399元",
+                    "originalPrice": "2900",
+                    "openTimeStamp": "1622736000000",
+                    "openCourseDate": "2021-06-04",
+                    "name": "APP双周美术课套餐",
+                    "referencePrice": "39900"
+                }]
+            }],
+            "priority": 1
+        }],
+        "moduleId": 24,
+        "marginBottom": 10,
+        "customFields": [],
+        "name": "苹果审核-首页体验课"
+    }, {
+        "moduleTemplateId": 3,
+        "title": null,
+        "contents": [{
+            "eventTrackingName": "苹果审核-首页系统课",
+            "contentId": 58,
+            "name": "苹果审核-首页系统课",
+            "customFields": [{
+                "fieldName": "courseName",
+                "value": ["咕比美术启蒙【系统版】"]
+            }, {
+                "fieldName": "courseTag",
+                "value": ["限时特惠144课时", "包邮送全年画具"]
+            }, {
+                "fieldName": "jumpUrl",
+                "value": ["https:\/\/Common\/openRNView?componentId=courseDetailsv2&courseMealType=2&channelId=13411&appid=wx98ac464c9196bfbe&needChildLock=1"]
+            }, {
+                "fieldName": "coursePackage",
+                "value": [{
+                    "courseMealId": "5",
+                    "appleProductId": null,
+                    "referencePriceStr": "指导价3800元",
+                    "originalPrice": "280000",
+                    "openTimeStamp": "1623081600000",
+                    "openCourseDate": "2021-06-08",
+                    "name": "美术AI系统课",
+                    "referencePrice": "380000"
+                }]
+            }],
+            "priority": 1
+        }],
+        "moduleId": 25,
+        "marginBottom": 10,
+        "customFields": [],
+        "name": "苹果审核-首页系统课"
+    }]
+}

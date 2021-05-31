@@ -79,6 +79,7 @@ void createOrderFile(){
     NSData * fileContents = [funcStr dataUsingEncoding:NSUTF8StringEncoding];
     [[NSFileManager defaultManager] createFileAtPath:filePath contents:fileContents attributes:nil];
     NSLog(@"%@",funcStr);
+    NSLog(@"filePath 保存路径就是:%@",filePath);
 }
 
 // This callback is inserted by the compiler as a module constructor
